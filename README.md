@@ -2,7 +2,7 @@
 **SSH Proxy** is applications help to create proxy or local port forwarding to access blocked websites and servers  over an encrypted SSH connection easily. It is able to create socks5 proxy (dynamic port forwarding) or local port forwarding to specific servers.
 **SSH Proxy** is useful for transporting network data of services that use an unencrypted protocol, such as VNC or FTP , accessing geo-restricted content, or bypassing intermediate firewalls. Basically, you can forward any TCP port and tunnel the traffic over a secure SSH connection.
 
-There are three types of **SSH Proxy**:
+**SSH Proxy** features:
  - **Local Port Forwarding**. - Forwards a connection from the client host to the SSH server host and then to the destination host port.
  - **Dynamic Port Forwarding**. - Creates a SOCKS (socks5) proxy server that allows communication across a range of ports.
 
